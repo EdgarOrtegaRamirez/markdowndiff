@@ -1,5 +1,5 @@
 # Binaries
-markdowndiff
+./markdowndiff
 *.exe
 *.exe~
 *.dll
