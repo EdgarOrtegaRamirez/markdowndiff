@@ -169,9 +169,9 @@ func Parse(text string) []Block {
 				i++
 			}
 			blocks = append(blocks, Block{
-				Type:    BlockList,
-				Items:   items,
-				Lines:   listLines,
+				Type:  BlockList,
+				Items: items,
+				Lines: listLines,
 			})
 			continue
 		}
