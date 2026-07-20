@@ -1,3 +1,3 @@
 module github.com/EdgarOrtegaRamirez/markdowndiff
 
-go 1.25
+go 1.24
